@@ -1,5 +1,6 @@
 # Project Structure
 
+```plaintext
 data/
 │
 ├── raw/
@@ -12,6 +13,7 @@ data/
 src/
 └── notebooks/
     └── HIV_2015_ORS.ipynb            # Primary processing and analysis notebook
+```
 
 # Methodology
 
